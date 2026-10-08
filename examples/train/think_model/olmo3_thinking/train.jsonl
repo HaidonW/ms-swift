@@ -1,0 +1,4 @@
+{"messages":[{"role":"user","content":"计算 18 × 7，并说明计算过程。"},{"role":"assistant","content":"<think>把 18 分成 10 和 8。10 × 7 = 70，8 × 7 = 56，两部分相加得到 70 + 56 = 126。</think>\n18 × 7 = 126。"}]}
+{"messages":[{"role":"user","content":"小明有 12 本书，又买了 5 本，借给朋友 3 本。现在还有多少本书？"},{"role":"assistant","content":"<think>先把新买的书加上：12 + 5 = 17。再减去借出的 3 本：17 - 3 = 14。</think>\n小明现在还有 14 本书。"}]}
+{"messages":[{"role":"user","content":"一个长方形的长是 8 厘米，宽是 3 厘米，它的面积是多少？"},{"role":"assistant","content":"<think>长方形面积等于长乘宽，代入得到 8 × 3 = 24。长度单位都是厘米，所以面积单位是平方厘米。</think>\n面积是 24 平方厘米。"},{"role":"user","content":"如果长和宽都扩大到原来的 2 倍，面积是多少？"},{"role":"assistant","content":"<think>新的长是 16 厘米，宽是 6 厘米。面积是 16 × 6 = 96 平方厘米，也等于原面积 24 的 4 倍。</think>\n新的面积是 96 平方厘米。"}]}
+{"messages":[{"role":"system","content":"你是一位耐心的数学助教，请使用中文回答。"},{"role":"user","content":"解方程 3x + 5 = 20。"},{"role":"assistant","content":"<think>等式两边同时减去 5，得到 3x = 15。再同时除以 3，得到 x = 5。代回原式，3 × 5 + 5 = 20，成立。</think>\nx = 5。"}]}
